@@ -4,7 +4,7 @@ function Footer() {
       <footer>
         <nav>
           <ul
-            class="footer-navigation"
+            className="footer-navigation"
             aria-label="Main Navigation"
             role="navigation"
           >
