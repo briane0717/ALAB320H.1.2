@@ -31,7 +31,7 @@ function Footer() {
             </li>
           </ul>
         </nav>
-        <p id="copyright">"&copy;" 2013 Valet Industries Inc</p>
+        <p id="copyright">&copy; 2013 Valet Industries Inc</p>
       </footer>
     </>
   );
